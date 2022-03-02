@@ -1,0 +1,495 @@
+#Number,Level,UnitName,UnitNumber,WordJP,WordEn
+0,basic,[基礎]生物の共通性と多様性,1,細胞,cell
+1,basic,[基礎]生物の共通性と多様性,1,原核生物,prokaryotes
+2,basic,[基礎]生物の共通性と多様性,1,真核生物,eukaryotes
+3,basic,[基礎]生物の共通性と多様性,1,単細胞生物,unicellular organism
+4,basic,[基礎]生物の共通性と多様性,1,多細胞生物,multicellular organism
+5,basic,[基礎]生物の共通性と多様性,1,核,nucleus
+6,basic,[基礎]生物の共通性と多様性,1,細胞質,cytoplasm
+7,basic,[基礎]生物の共通性と多様性,1,細胞膜,plasma membrane (cell membrane)
+8,basic,[基礎]細胞とエネルギー,2,呼吸,respiration
+9,basic,[基礎]細胞とエネルギー,2,光合成,photosynthesis
+10,basic,[基礎]細胞とエネルギー,2,ミトコンドリア,mitochondrion
+11,basic,[基礎]細胞とエネルギー,2,葉緑体,chloroplast
+12,basic,[基礎]細胞とエネルギー,2,グルコース (ブドウ糖),glucose
+13,basic,[基礎]細胞とエネルギー,2,有機物,organic matter
+14,basic,[基礎]細胞とエネルギー,2,代謝,metabolism
+15,basic,[基礎]細胞とエネルギー,2,エネルギー,energy
+16,basic,[基礎]細胞とエネルギー,2,酵素,enzyme
+17,basic,[基礎]細胞とエネルギー,2,触媒,catalyst
+18,basic,[基礎]細胞とエネルギー,2,ATP,ATP
+19,basic,[基礎]細胞とエネルギー,2,ADP,ADP
+20,basic,[基礎]遺伝情報とDNA,3,遺伝,heredity (inheritance)
+21,basic,[基礎]遺伝情報とDNA,3,遺伝子,gene
+22,basic,[基礎]遺伝情報とDNA,3,DNA,DNA
+23,basic,[基礎]遺伝情報とDNA,3,二重らせん,double helix
+24,basic,[基礎]遺伝情報とDNA,3,DNA複製,DNA replication
+25,basic,[基礎]遺伝情報とDNA,3,塩基配列,nucleotide sequence
+26,basic,[基礎]遺伝情報とDNA,3,塩基対,base pair
+27,basic,[基礎]遺伝情報とDNA,3,ヌクレオチド,nucleotide
+28,basic,[基礎]遺伝情報とDNA,3,ゲノム,genome
+29,basic,[基礎]遺伝情報の分配,4,細胞周期,cell cycle
+30,basic,[基礎]遺伝情報の分配,4,細胞分裂,cell division
+31,basic,[基礎]遺伝情報の分配,4,遺伝子発現,gene expression
+32,basic,[基礎]遺伝情報とタンパク質の合成,5,RNA,RNA
+33,basic,[基礎]遺伝情報とタンパク質の合成,5,mRNA,mRNA (messenger RNA)
+34,basic,[基礎]遺伝情報とタンパク質の合成,5,tRNA,tRNA (transfer RNA)
+35,basic,[基礎]遺伝情報とタンパク質の合成,5,rRNA,rRNA (ribosomal RNA)
+36,basic,[基礎]遺伝情報とタンパク質の合成,5,タンパク質,protein
+37,basic,[基礎]遺伝情報とタンパク質の合成,5,転写,transcription
+38,basic,[基礎]遺伝情報とタンパク質の合成,5,翻訳,translation
+39,basic,[基礎]遺伝情報とタンパク質の合成,5,基質,substrate
+40,basic,[基礎]遺伝情報とタンパク質の合成,5,基質特異性,substrate specificity
+41,basic,[基礎]体内環境の維持の仕組み,6,神経系,nervous system
+42,basic,[基礎]体内環境の維持の仕組み,6,中枢神経系,central nervous system
+43,basic,[基礎]体内環境の維持の仕組み,6,末梢神経系,peripheral nervous system
+44,basic,[基礎]体内環境の維持の仕組み,6,自律神経系,autonomic nervous system
+45,basic,[基礎]体内環境の維持の仕組み,6,交感神経系,sympathetic nervous system
+46,basic,[基礎]体内環境の維持の仕組み,6,副交感神経系,parasympathetic nervous system
+47,basic,[基礎]体内環境の維持の仕組み,6,内分泌系,endocrine system
+48,basic,[基礎]体内環境の維持の仕組み,6,内分泌腺,endocrine gland
+49,basic,[基礎]体内環境の維持の仕組み,6,ホルモン,hormone
+50,basic,[基礎]体内環境の維持の仕組み,6,受容体,receptor
+51,basic,[基礎]体内環境の維持の仕組み,6,下垂体 (脳下垂体),pituitary gland
+52,basic,[基礎]体内環境の維持の仕組み,6,恒常性 (ホメオスタシス),homeostasis
+53,basic,[基礎]体内環境の維持の仕組み,6,血液,blood
+54,basic,[基礎]体内環境の維持の仕組み,6,赤血球,erythrocyte
+55,basic,[基礎]体内環境の維持の仕組み,6,白血球,leukocyte
+56,basic,[基礎]体内環境の維持の仕組み,6,血小板,platelet
+57,basic,[基礎]体内環境の維持の仕組み,6,血しょう,blood plasma
+58,basic,[基礎]体内環境の維持の仕組み,6,血清,serum
+59,basic,[基礎]体内環境の維持の仕組み,6,血液凝固,blood coagulation
+60,basic,[基礎]体内環境の維持の仕組み,6,解毒作用,detoxification
+61,basic,[基礎]体内環境の維持の仕組み,6,血糖,blood sugar
+62,basic,[基礎]免疫,7,免疫,immunity
+63,basic,[基礎]免疫,7,抗原,antigen
+64,basic,[基礎]免疫,7,抗体,antibody
+65,basic,[基礎]免疫,7,免疫グロブリン,immunoglobulin
+66,basic,[基礎]免疫,7,食作用,phagocytosis
+67,basic,[基礎]免疫,7,ワクチン,vaccine
+68,basic,[基礎]免疫,7,アレルギー,allergy
+69,basic,[基礎]植生と遷移,8,環境,environment
+70,basic,[基礎]植生と遷移,8,植生,vegetation
+71,basic,[基礎]植生と遷移,8,遷移,succession
+72,basic,[基礎]植生と遷移,8,森林,forest
+73,basic,[基礎]植生と遷移,8,極相,climax
+74,basic,[基礎]気候とバイオーム,9,バイオーム,biome
+75,basic,[基礎]気候とバイオーム,9,優占種,dominant species
+76,basic,[基礎]気候とバイオーム,9,草原,grassland
+77,basic,[基礎]気候とバイオーム,9,荒原,desert
+78,basic,[基礎]気候とバイオーム,9,生態系,ecosystem
+79,basic,[基礎]気候とバイオーム,9,生物多様性,biodiversity
+80,basic,[基礎]気候とバイオーム,9,絶滅,extinction
+81,basic,[基礎]気候とバイオーム,9,保全,conservation
+82,basic,[基礎]気候とバイオーム,9,かく乱,disturbance
+83,basic,有性生殖/減数分裂と受精,10,染色体,chromosome
+84,basic,有性生殖/減数分裂と受精,10,組換え,recombination
+85,basic,有性生殖/減数分裂と受精,10,連鎖,linkage
+86,basic,有性生殖/減数分裂と受精,10,アレル (対立遺伝子),allele
+87,basic,有性生殖/減数分裂と受精,10,遺伝子座,locus
+88,basic,有性生殖/減数分裂と受精,10,遺伝子型 (遺伝型),genotype
+89,basic,有性生殖/減数分裂と受精,10,表現型,phenotype
+90,basic,有性生殖/減数分裂と受精,10,生殖 (繁殖),reproduction
+91,basic,有性生殖/減数分裂と受精,10,有性生殖,sexual reproduction
+92,basic,有性生殖/減数分裂と受精,10,減数分裂,meiosis
+93,basic,有性生殖/減数分裂と受精,10,配偶子,gamete
+94,basic,有性生殖/減数分裂と受精,10,性染色体,sex chromosome
+95,basic,有性生殖/減数分裂と受精,10,クローン,clone
+96,basic,進化の仕組み,11,進化,evolution
+97,basic,進化の仕組み,11,化学進化,chemical evolution
+98,basic,進化の仕組み,11,細胞内共生,endosymbiosis
+99,basic,進化の仕組み,11,突然変異,mutation
+100,basic,進化の仕組み,11,適応,adaptation
+101,basic,進化の仕組み,11,自然選択,natural selection
+102,basic,進化の仕組み,11,種分化,speciation
+103,basic,進化の仕組み,11,共進化,coevolution
+104,basic,進化の仕組み,11,変異,variation
+105,basic,進化の仕組み,11,遺伝的浮動,genetic drift
+106,basic,進化の仕組み,11,分子進化,molecular evolution
+107,basic,生物の分類と系統,12,分類,classification
+108,basic,生物の分類と系統,12,系統,lineage
+109,basic,生物の分類と系統,12,系統分類,systematics
+110,basic,生物の分類と系統,12,系統樹,phylogenetic tree
+111,basic,生物の分類と系統,12,古生代,Paleozoic
+112,basic,生物の分類と系統,12,中生代,Mesozoic
+113,basic,生物の分類と系統,12,新生代,Cenozoic
+114,basic,生物の分類と系統,12,種,species
+115,basic,生物の分類と系統,12,学名,scientific name
+116,basic,生物の分類と系統,12,ドメイン,domain
+117,basic,生物の分類と系統,12,界,kingdom
+118,basic,生物の分類と系統,12,門,phylum
+119,basic,生物の分類と系統,12,アーキア,Archaea
+120,basic,生物の分類と系統,12,細菌,Bacteria
+121,basic,生物の分類と系統,12,菌類,Fungi
+122,basic,生物の分類と系統,12,脊椎動物,vertebrate
+123,basic,生物の分類と系統,12,無脊椎動物,invertebrate
+124,basic,生物の分類と系統,12,哺乳類,mammal
+125,basic,生物の分類と系統,12,霊長類,primate
+126,basic,生物の分類と系統,12,ホモ・サピエンス,Homo sapiens
+127,basic,生物の分類と系統,12,種子植物,Spermatophyta
+128,basic,生物の分類と系統,12,被子植物,angiosperm
+129,basic,生物の分類と系統,12,裸子植物,gymnosperm
+130,basic,生物の分類と系統,12,藻類,algae
+131,basic,細胞と分子/生体物質と細胞,13,生体膜,biomembrane
+132,basic,細胞と分子/生体物質と細胞,13,細胞小器官 (オルガネラ),organelle
+133,basic,細胞と分子/生体物質と細胞,13,小胞体,endoplasmic reticulum
+134,basic,細胞と分子/生体物質と細胞,13,ゴルジ体,Golgi apparatus
+135,basic,細胞と分子/生体物質と細胞,13,リソソーム,lysosome
+136,basic,細胞と分子/生体物質と細胞,13,液胞,vacuole
+137,basic,細胞と分子/生体物質と細胞,13,細胞骨格,cytoskeleton
+138,basic,細胞と分子/生体物質と細胞,13,微小管,microtubule
+139,basic,細胞と分子/生体物質と細胞,13,アクチンフィラメント (アクチン繊維),actin filament
+140,basic,細胞と分子/生体物質と細胞,13,細胞壁,cell wall
+141,basic,細胞と分子/生体物質と細胞,13,リボソーム,ribosome
+142,basic,細胞と分子/生体物質と細胞,13,核酸,nucleic acid
+143,basic,細胞と分子/生体物質と細胞,13,脂質,lipid
+144,basic,細胞と分子/生体物質と細胞,13,リン脂質,phospholipid
+145,basic,細胞と分子/生体物質と細胞,13,炭水化物,carbohydrate
+146,basic,細胞と分子/生体物質と細胞,13,能動輸送,active transport
+147,basic,細胞と分子/生命現象とタンパク質,14,アミノ酸,amino acid
+148,basic,細胞と分子/生命現象とタンパク質,14,ペプチド,peptide
+149,basic,細胞と分子/生命現象とタンパク質,14,ポリペプチド,polypeptide
+150,basic,細胞と分子/生命現象とタンパク質,14,立体構造,three-dimensional structure
+151,basic,細胞と分子/生命現象とタンパク質,14,活性部位,active site
+152,basic,細胞と分子/生命現象とタンパク質,14,失活,inactivation
+153,basic,細胞と分子/生命現象とタンパク質,14,変性,denaturation
+154,basic,代謝/呼吸と光合成,15,解糖,glycolysis
+155,basic,代謝/呼吸と光合成,15,発酵,fermentation
+156,basic,代謝/呼吸と光合成,15,クエン酸回路,citric acid cycle
+157,basic,代謝/呼吸と光合成,15,電子伝達系,electron transport system
+158,basic,代謝/呼吸と光合成,15,カルビン回路,Calvin cycle
+159,basic,代謝/呼吸と光合成,15,クロロフィル,chlorophyll
+160,basic,代謝/窒素同化,16,窒素固定,nitrogen fixation
+161,basic,遺伝情報の発現,17,遺伝情報,genetic information
+162,basic,遺伝情報の発現,17,コドン,codon
+163,basic,遺伝情報の発現,17,DNAポリメラーゼ,DNA polymerase
+164,basic,遺伝情報の発現,17,RNAポリメラーゼ,RNA polymerase
+165,basic,遺伝情報の発現,17,スプライシング,splicing
+166,basic,遺伝情報の発現,17,エキソン,exon
+167,basic,遺伝情報の発現,17,イントロン,intron
+168,basic,遺伝子の発現調節,18,転写因子,transcription factor
+169,basic,遺伝子の発現調節,18,プロモーター,promoter
+170,basic,動物の発生,19,発生,development
+171,basic,動物の発生,19,分化,differentiation
+172,basic,動物の発生,19,細胞分化,cell differentiation
+173,basic,動物の発生,19,卵,egg
+174,basic,動物の発生,19,精子,sperm
+175,basic,動物の発生,19,受精,fertilization
+176,basic,動物の発生,19,受精卵,fertilized egg
+177,basic,動物の発生,19,卵割,cleavage
+178,basic,動物の発生,19,胚,embryo
+179,basic,動物の発生,19,胞胚,blastula
+180,basic,動物の発生,19,原腸胚,gastrula
+181,basic,動物の発生,19,誘導,induction
+182,basic,動物の発生,19,オーガナイザー (形成体),organizer
+183,basic,動物の発生,19,外胚葉,ectoderm
+184,basic,動物の発生,19,内胚葉,endoderm
+185,basic,動物の発生,19,中胚葉,mesoderm
+186,basic,動物の発生,19,形態形成,morphogenesis
+187,basic,動物の発生,19,幼生,larva
+188,basic,動物の発生,19,変態,metamorphosis
+189,basic,動物の発生,19,発生運命,fate
+190,basic,植物の発生,20,卵細胞,egg cell (ovum)
+191,basic,植物の発生,20,精細胞,sperm cell (spermatid)
+192,basic,植物の発生,20,花粉,pollen
+193,basic,植物の発生,20,種子,seed
+194,basic,植物の発生,20,胚乳,endosperm
+195,basic,植物の発生,20,形成層,cambium
+196,basic,バイオテクノロジー,21,制限酵素,restriction enzyme
+197,basic,バイオテクノロジー,21,ベクター,vector
+198,basic,バイオテクノロジー,21,組換え DNA,recombinant DNA
+199,basic,バイオテクノロジー,21,形質転換,transformation
+200,basic,刺激の受容と反応,22,神経細胞 (ニューロン),neuron
+201,basic,刺激の受容と反応,22,大脳,cerebrum
+202,basic,刺激の受容と反応,22,小脳,cerebellum
+203,basic,刺激の受容と反応,22,脊髄,spinal cord
+204,basic,刺激の受容と反応,22,受容器,receptor organ
+205,basic,刺激の受容と反応,22,効果器,effector organ
+206,basic,刺激の受容と反応,22,感覚神経,sensory nerve
+207,basic,刺激の受容と反応,22,運動神経,motor nerve
+208,basic,刺激の受容と反応,22,シナプス,synapse
+209,basic,刺激の受容と反応,22,軸索,axon
+210,basic,刺激の受容と反応,22,樹状突起,dendrite
+211,basic,刺激の受容と反応,22,興奮,excitation
+212,basic,刺激の受容と反応,22,活動電位,action potential
+213,basic,刺激の受容と反応,22,膜電位,membrane potential
+214,basic,刺激の受容と反応,22,伝導,conduction
+215,basic,刺激の受容と反応,22,伝達,transmission
+216,basic,刺激の受容と反応,22,神経伝達物質,neurotransmitter
+217,basic,刺激の受容と反応,22,視覚,vision
+218,basic,刺激の受容と反応,22,聴覚,hearing
+219,basic,刺激の受容と反応,22,味覚,taste
+220,basic,刺激の受容と反応,22,嗅覚,olfaction
+221,basic,刺激の受容と反応,22,網膜,retina
+222,basic,刺激の受容と反応,22,色覚,color vision
+223,basic,刺激の受容と反応,22,筋肉,muscle
+224,basic,刺激の受容と反応,22,骨格筋,skeletal muscle
+225,basic,動物の行動,23,行動,behavior
+226,basic,動物の行動,23,学習,learning
+227,basic,動物の行動,23,フェロモン,pheromone
+228,basic,植物の環境応答,24,植物ホルモン,plant hormone
+229,basic,植物の環境応答,24,オーキシン,auxin
+230,basic,植物の環境応答,24,エチレン,ethylene
+231,basic,植物の環境応答,24,ジベレリン,gibberellin
+232,basic,植物の環境応答,24,サイトカイニン,cytokinin
+233,basic,植物の環境応答,24,アブシシン酸,abscisic acid
+234,basic,植物の環境応答,24,光受容体,photoreceptor
+235,basic,植物の環境応答,24,フィトクロム,phytochrome
+236,basic,植物の環境応答,24,発芽,germination
+237,basic,植物の環境応答,24,屈性,tropism
+238,basic,植物の環境応答,24,休眠,dormancy
+239,basic,個体群と生物群集,25,個体,individual
+240,basic,個体群と生物群集,25,集団 (個体群),population
+241,basic,個体群と生物群集,25,群集,community
+242,basic,個体群と生物群集,25,共生,symbiosis
+243,basic,個体群と生物群集,25,競争,competition
+244,basic,個体群と生物群集,25,ニッチ (生得的地位),niche
+245,basic,生態系と生物多様性,26,物質循環,nutrient cycling
+246,basic,生態系と生物多様性,26,生産者,producer
+247,basic,生態系と生物多様性,26,消費者,consumer
+248,basic,生態系と生物多様性,26,分解者,decomposer
+249,basic,生態系と生物多様性,26,食物網,food web
+250,basic,生態系と生物多様性,26,バイオマス (現存量),biomass
+251,applied,[基礎]生物の共通性と多様性,1,原核細胞,prokaryotic cell
+252,applied,[基礎]生物の共通性と多様性,1,真核細胞,eukaryotic cell
+253,applied,[基礎]生物の共通性と多様性,1,組織,tissue
+254,applied,[基礎]生物の共通性と多様性,1,器官,organ
+255,applied,[基礎]細胞とエネルギー,2,炭酸同化 (炭素同化),carbon assimilation
+256,applied,[基礎]細胞とエネルギー,2,リン酸,phosphate
+257,applied,[基礎]細胞とエネルギー,2,アルコール発酵,alcohol fermentation
+258,applied,[基礎]細胞とエネルギー,2,乳酸発酵,lactate fermentation
+259,applied,[基礎]細胞とエネルギー,2,光化学系 I,photosystem I
+260,applied,[基礎]細胞とエネルギー,2,光化学系 II,photosystem II
+261,applied,[基礎]細胞とエネルギー,2,ピルビン酸,pyruvate
+262,applied,[基礎]細胞とエネルギー,2,NADH,NADH
+263,applied,[基礎]細胞とエネルギー,2,NADPH,NADPH
+264,applied,[基礎]遺伝情報とDNA,3,塩基,base
+265,applied,[基礎]遺伝情報とDNA,3,相補性,complementarity
+266,applied,[基礎]遺伝情報とDNA,3,アデニン,adenine
+267,applied,[基礎]遺伝情報とDNA,3,グアニン,guanine
+268,applied,[基礎]遺伝情報とDNA,3,チミン,thymine
+269,applied,[基礎]遺伝情報とDNA,3,シトシン,cytosine
+270,applied,[基礎]遺伝情報とDNA,3,ウラシル,uracil
+271,applied,[基礎]遺伝情報の分配,4,分裂期,mitotic phase
+272,applied,[基礎]遺伝情報の分配,4,間期,interphase
+273,applied,[基礎]遺伝情報の分配,4,体細胞分裂,mitosis
+274,applied,[基礎]遺伝情報とタンパク質の合成,5,形質,trait
+275,applied,[基礎]遺伝情報とタンパク質の合成,5,発現,expression
+276,applied,[基礎]遺伝情報とタンパク質の合成,5,アミノ酸配列,amino acid sequence
+277,applied,[基礎]体内環境の維持の仕組み,6,標的器官,target organ
+278,applied,[基礎]体内環境の維持の仕組み,6,視床下部,hypothalamus
+279,applied,[基礎]体内環境の維持の仕組み,6,甲状腺,thyroid
+280,applied,[基礎]体内環境の維持の仕組み,6,アドレナリン,adrenaline
+281,applied,[基礎]体内環境の維持の仕組み,6,グルカゴン,glucagon
+282,applied,[基礎]体内環境の維持の仕組み,6,成長ホルモン,growth hormone
+283,applied,[基礎]体内環境の維持の仕組み,6,インスリン,insulin
+284,applied,[基礎]体内環境の維持の仕組み,6,グリコーゲン,glycogen
+285,applied,[基礎]体内環境の維持の仕組み,6,糖尿病,diabetes
+286,applied,[基礎]体内環境,27,体内環境,internal environment
+287,applied,[基礎]体内環境,27,循環系,circulatory system
+288,applied,[基礎]体内環境,27,体液,body fluid
+289,applied,[基礎]体内環境,27,リンパ液,lymph
+290,applied,[基礎]体内環境,27,ヘモグロビン,hemoglobin
+291,applied,[基礎]体内環境,27,血餅 (血ぺい),blood clot
+292,applied,[基礎]体内環境,27,胆汁,bile
+293,applied,[基礎]体内環境,27,再吸収,reabsorption
+294,applied,[基礎]体内環境,27,尿素,urea
+295,applied,[基礎]免疫,7,抗原抗体反応,antigen-antibody reaction
+296,applied,[基礎]免疫,7,体液性免疫,humoral immunity
+297,applied,[基礎]免疫,7,細胞性免疫,cellular immunity
+298,applied,[基礎]免疫,7,リンパ球,lymphocyte
+299,applied,[基礎]免疫,7,マクロファージ,macrophage
+300,applied,[基礎]免疫,7,樹状細胞,dendritic cell
+301,applied,[基礎]免疫,7,B 細胞,B cell
+302,applied,[基礎]免疫,7,T 細胞,T cell
+303,applied,[基礎]免疫,7,拒絶反応,rejection
+304,applied,[基礎]免疫,7,がん,cancer
+305,applied,[基礎]植生と遷移,8,土壌,soil
+306,applied,[基礎]植生と遷移,8,二次遷移,secondary succession
+307,applied,[基礎]植生と遷移,8,生活形,life form
+308,applied,[基礎]気候とバイオーム,9,垂直分布,vertical distribution
+309,applied,[基礎]気候とバイオーム,9,水平分布,horizontal distribution
+310,applied,[基礎]気候とバイオーム,9,森林限界,forest line
+311,applied,[基礎]気候とバイオーム,9,相観,physiognomy
+312,applied,[基礎]生態系と物質循環,28,捕食,predation
+313,applied,[基礎]生態系と物質循環,28,被食,prey
+314,applied,[基礎]生態系と物質循環,28,炭素循環,carbon cycle
+315,applied,[基礎]生態系と物質循環,28,窒素循環,nitrogen cycle
+316,applied,[基礎]生態系と物質循環,28,純生産量,net production
+317,applied,[基礎]生態系と物質循環,28,総生産量,gross production
+318,applied,[基礎]生態系のバランスと保全,29,地球温暖化,global warming
+319,applied,[基礎]生態系のバランスと保全,29,富栄養化,eutrophication
+320,applied,[基礎]生態系のバランスと保全,29,外来生物,alien species
+321,applied,[基礎]生態系のバランスと保全,29,シアノバクテリア,Cyanobacteria
+322,applied,[基礎]生態系のバランスと保全,29,大量絶滅,mass extinction
+323,applied,[基礎]生態系のバランスと保全,29,オゾン層,ozone layer
+324,applied,有性生殖/減数分裂と受精,10,一倍体,haploid
+325,applied,有性生殖/減数分裂と受精,10,二倍体,diploid
+326,applied,有性生殖/減数分裂と受精,10,生殖細胞,germ cell
+327,applied,有性生殖/減数分裂と受精,10,接合,conjugation
+328,applied,有性生殖/減数分裂と受精,10,相同染色体,homologous chromosome
+329,applied,有性生殖/減数分裂と受精,10,無性生殖,asexual reproduction
+330,applied,有性生殖/遺伝子と染色体,30,常染色体,autosome
+331,applied,有性生殖/遺伝子と染色体,30,X 染色体,X chromosome
+332,applied,有性生殖/遺伝子と染色体,30,Y 染色体,Y chromosome
+333,applied,有性生殖/遺伝子と染色体,30,ホモ接合体,homozygote
+334,applied,有性生殖/遺伝子と染色体,30,ヘテロ接合体,heterozygote
+335,applied,有性生殖/遺伝子と染色体,30,顕性 (優性),dominant
+336,applied,有性生殖/遺伝子と染色体,30,潜性 (劣性),recessive
+337,applied,進化の仕組み,11,遺伝子プール,gene pool
+338,applied,進化の仕組み,11,遺伝子頻度,gene frequency
+339,applied,進化の仕組み,11,遺伝子重複,gene duplication
+340,applied,進化の仕組み,11,遺伝的変異,genetic variation
+341,applied,進化の仕組み,11,突然変異体 (変異体),mutant
+342,applied,進化の仕組み,11,倍数体,polyploid
+343,applied,進化の仕組み,11,生殖的隔離,reproductive isolation
+344,applied,進化の仕組み,11,地理的隔離,geographic isolation
+345,applied,進化の仕組み,11,適応度,fitness
+346,applied,進化の仕組み,11,適応放散,adaptive radiation
+347,applied,生物の分類と系統,12,二名法,binomial nomenclature
+348,applied,生物の分類と系統,12,分類群,taxon
+349,applied,生物の分類と系統,12,綱,class
+350,applied,生物の分類と系統,12,目,order
+351,applied,生物の分類と系統,12,科,family
+352,applied,生物の分類と系統,12,属,genus
+353,applied,生物の分類と系統,12,類人猿,ape
+354,applied,生物の分類と系統,12,魚類,fish
+355,applied,生物の分類と系統,12,両生類,amphibian
+356,applied,生物の分類と系統,12,爬虫類,reptile
+357,applied,生物の分類と系統,12,鳥類,bird
+358,applied,生物の分類と系統,12,脊索動物,Chordata
+359,applied,生物の分類と系統,12,節足動物,Arthropoda
+360,applied,生物の分類と系統,12,線形動物,Nematoda
+361,applied,生物の分類と系統,12,軟体動物,Mollusca
+362,applied,生物の分類と系統,12,コケ植物,Bryophyta
+363,applied,生物の分類と系統,12,シダ植物,Pteridophyta
+364,applied,生物の分類と系統,12,原生生物,Protista
+365,applied,生物の分類と系統,12,酵母,yeast
+366,applied,生物の分類と系統,12,胞子,spore
+367,applied,生物の分類と系統,12,ウイルス,virus
+368,applied,細胞と分子/生体物質と細胞,13,サイトゾル (細胞質基質/細胞質ゾル),cytosol
+369,applied,細胞と分子/生体物質と細胞,13,核膜,nuclear envelope
+370,applied,細胞と分子/生体物質と細胞,13,核小体,nucleolus
+371,applied,細胞と分子/生体物質と細胞,13,繊毛,cilium
+372,applied,細胞と分子/生体物質と細胞,13,鞭毛 (べん毛),flagellum
+373,applied,細胞と分子/生体物質と細胞,13,ミオシン,myosin
+374,applied,細胞と分子/生体物質と細胞,13,筋原繊維,myofibril
+375,applied,細胞と分子/生体物質と細胞,13,中心体,centrosome
+376,applied,細胞と分子/生体物質と細胞,13,細胞接着,cell adhesion
+377,applied,細胞と分子/生体物質と細胞,13,分泌,secretion
+378,applied,細胞と分子/生体物質と細胞,13,セルロース,cellulose
+379,applied,細胞と分子/生体物質と細胞,13,多糖,polysaccharide
+380,applied,細胞と分子/生体物質と細胞,13,脂肪,fat
+381,applied,細胞と分子/生体物質と細胞,13,脂肪酸,fatty acid
+382,applied,細胞と分子/生体物質と細胞,13,糖,sugar
+383,applied,細胞と分子/生体物質と細胞,13,チャネル,channel
+384,applied,細胞と分子/生体物質と細胞,13,ポンプ,pump
+385,applied,細胞と分子/生体物質と細胞,13,輸送体,transporter
+386,applied,細胞と分子/生体物質と細胞,13,受動輸送,passive transport
+387,applied,細胞と分子/生体物質と細胞,13,アクアポリン,aquaporin
+388,applied,細胞と分子/生体物質と細胞,13,ヒストン,histone
+389,applied,代謝/窒素同化,16,脱窒 (脱窒素),denitrification
+390,applied,代謝/窒素同化,16,窒素同化,nitrogen assimilation
+391,applied,細胞と分子/生命現象とタンパク質,14,ペプチド結合,peptide bond
+392,applied,細胞と分子/生命現象とタンパク質,14,一次構造,primary structure
+393,applied,細胞と分子/生命現象とタンパク質,14,二次構造,secondary structure
+394,applied,細胞と分子/生命現象とタンパク質,14,三次構造,tertiary structure
+395,applied,細胞と分子/生命現象とタンパク質,14,水素結合,hydrogen bond
+396,applied,細胞と分子/生命現象とタンパク質,14,特異性,specificity
+397,applied,細胞と分子/生命現象とタンパク質,14,活性化エネルギー,activation energy
+398,applied,細胞と分子/生命現象とタンパク質,14,生成物,product
+399,applied,細胞と分子/生命現象とタンパク質,14,最適ｐH,optimum pH
+400,applied,細胞と分子/生命現象とタンパク質,14,最適温度,optimum temperature
+401,applied,遺伝情報の発現,17,遺伝暗号,genetic code
+402,applied,遺伝情報の発現,17,開始コドン,start codon
+403,applied,遺伝情報の発現,17,終止コドン,termination codon
+404,applied,遺伝情報の発現,17,発現調節,expression regulation
+405,applied,遺伝情報の発現,17,オペロン,operon
+406,applied,遺伝情報の発現,17,オペレーター,operator
+407,applied,遺伝情報の発現,17,リプレッサー,repressor
+408,applied,遺伝情報の発現,17,挿入,insertion
+409,applied,遺伝情報の発現,17,欠失,deletion
+410,applied,遺伝情報の発現,17,置換,substitution
+411,applied,遺伝情報の発現,17,DNA修復,DNA repair
+412,applied,動物の発生,19,初期発生,early development
+413,applied,動物の発生,19,器官形成,organogenesis
+414,applied,動物の発生,19,配偶子形成,gametogenesis
+415,applied,動物の発生,19,原基,primordium/anlage
+416,applied,動物の発生,19,決定,determination
+417,applied,動物の発生,19,原口,blastopore
+418,applied,動物の発生,19,陥入,invagination
+419,applied,動物の発生,19,脊索,notochord
+420,applied,動物の発生,19,体節,segment/somite
+421,applied,動物の発生,19,神経胚,neurula
+422,applied,動物の発生,19,神経管,neural tube
+423,applied,動物の発生,19,幹細胞,stem cell
+424,applied,動物の発生,19,多能性,pluripotency
+425,applied,動物の発生,19,プログラム細胞死,programmed cell death
+426,applied,動物の発生,19,アポトーシス,apoptosis
+427,applied,動物の個体・器官・働き,31,肝臓,liver
+428,applied,動物の個体・器官・働き,31,腎臓,kidney
+429,applied,動物の個体・器官・働き,31,膵臓 (すい臓),pancreas
+430,applied,動物の個体・器官・働き,31,脾臓 (ひ臓),spleen
+431,applied,動物の個体・器官・働き,31,胸腺,thymus
+432,applied,動物の個体・器官・働き,31,結合組織,connective tissue
+433,applied,動物の個体・器官・働き,31,上皮,epithelium
+434,applied,植物の個体・器官・働き,32,茎,stem
+435,applied,植物の個体・器官・働き,32,根,root
+436,applied,植物の個体・器官・働き,32,芽,bud
+437,applied,植物の個体・器官・働き,32,気孔,stoma
+438,applied,植物の個体・器官・働き,32,蒸散,transpiration
+439,applied,植物の個体・器官・働き,32,子房,ovary
+440,applied,植物の個体・器官・働き,32,維管束,vascular bundle
+441,applied,植物の個体・器官・働き,32,道管,vessel
+442,applied,植物の個体・器官・働き,32,篩管 (師管),phloem
+443,applied,植物の発生,20,胚珠,ovule
+444,applied,植物の発生,20,胚嚢 (胚のう),embryo sac
+445,applied,植物の発生,20,花粉管,pollen tube
+446,applied,植物の発生,20,柱頭,stigma
+447,applied,植物の発生,20,重複受精,double fertilization
+448,applied,植物の発生,20,胚軸,hypocotyl
+449,applied,植物の発生,20,茎頂分裂組織,shoot apical meristem
+450,applied,植物の発生,20,根端分裂組織,root meristem
+451,applied,バイオテクノロジー,21,PCR,PCR (polymerase chain reaction)
+452,applied,バイオテクノロジー,21,プラスミド,plasmid
+453,applied,刺激の受容と反応,22,シグナル伝達 (情報伝達),signal transduction
+454,applied,刺激の受容と反応,22,反射,reflex
+455,applied,刺激の受容と反応,22,大脳皮質,cerebral cortex
+456,applied,刺激の受容と反応,22,新皮質,neocortex
+457,applied,刺激の受容と反応,22,海馬,hippocampus
+458,applied,刺激の受容と反応,22,間脳,diencephalon
+459,applied,刺激の受容と反応,22,中脳,midbrain
+460,applied,刺激の受容と反応,22,脳幹,brain stem
+461,applied,刺激の受容と反応,22,延髄,medulla oblongata
+462,applied,刺激の受容と反応,22,灰白質,gray matter
+463,applied,刺激の受容と反応,22,白質,white matter
+464,applied,刺激の受容と反応,22,桿体細胞,rod cell
+465,applied,刺激の受容と反応,22,錐体細胞,cone cell
+466,applied,刺激の受容と反応,22,水晶体,lens
+467,applied,刺激の受容と反応,22,盲斑,blind spot
+468,applied,刺激の受容と反応,22,筋収縮,muscle contraction
+469,applied,刺激の受容と反応,22,横紋筋,striated muscle
+470,applied,刺激の受容と反応,22,アセチルコリン,acetylcholine
+471,applied,刺激の受容と反応,22,平衡覚,static sense
+472,applied,刺激の受容と反応,22,静止電位,resting potential
+473,applied,刺激の受容と反応,22,シナプス小胞,synaptic vesicle
+474,applied,動物の行動,23,走性,taxis
+475,applied,動物の行動,23,刷込み,imprinting
+476,applied,動物の行動,23,条件づけ,conditioning
+477,applied,植物の環境応答,24,光屈性,phototropism
+478,applied,植物の環境応答,24,光周性,photoperiodism
+479,applied,植物の環境応答,24,重力屈性,gravitropism
+480,applied,植物の環境応答,24,長日植物,long-day plant
+481,applied,植物の環境応答,24,短日植物,short-day plant
+482,applied,植物の環境応答,24,カルス,callus
+483,applied,植物の環境応答,24,離層,abscission layer
+484,applied,個体群と生物群集,25,群れ,group
+485,applied,個体群と生物群集,25,種内競争,intraspecific competition
+486,applied,個体群と生物群集,25,共存,coexistence
+487,applied,個体群と生物群集,25,生息場所,habitat
+488,applied,個体群と生物群集,25,縄張り,territory
+489,applied,個体群と生物群集,25,種間競争,interspecific competition
+490,applied,個体群と生物群集,25,寄生,parasitism
+491,applied,個体群と生物群集,25,個体群密度,population density
+492,applied,個体群と生物群集,25,生存曲線,survival curve
+493,applied,個体群と生物群集,25,成長曲線,growth curve

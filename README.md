@@ -177,9 +177,18 @@ Windows環境でかつGCC ( MinGW )がインストールされていない場合
 
 本プログラムでクイズとして使用した高校生物の重要単語とその英訳 ( 全 494 語 )は, 日本学術会議による報告 [ 3 ] とその改訂版 [ 4 ] を基に選出されました. 
 
+### 日本語が正しく表示されない場合　
+
+コマンドプロンプト, ターミナルで使用されているフォントが日本語に対応していない場合があります. コマンドプロンプト, ターミナルの設定から, 日本語をサポートしているフォントに変更してください. 
+
+* 【Windows】コマンドプロンプトのフォントを変更する方法 ( https://www.javadrive.jp/command/ini/index3.html ) [ 5 ] 
+* 【Mac OS】ターミナルのフォントを変更する方法 ( https://support.apple.com/ja-jp/guide/terminal/trmltxt/mac ) [ 6 ] 
+
 ## References 
 
 1. Gardner, Adam, et al. "CellPAINT: interactive illustration of dynamic mesoscale cellular environments." IEEE computer graphics and applications 38.6 (2018). 
 2. Webkaru. C言語入門. "MinGW - gcc の インストール - Windows環境". https://webkaru.net/clang/mingw-gcc-install/ ( Accessed on March 3, 2022 ). 
 3. 日本学術会議. "高等学校の生物教育における重要用語の選定について". https://www.scj.go.jp/ja/member/iinkai/kanji/pdf23/siryo252-5-3.pdf ( Accessed on February 14, 2022 ). 
 4. 日本学術会議. "高等学校の生物教育における重要用語の選定について (改訂)". https://www.scj.go.jp/ja/info/kohyo/pdf/kohyo-24-h190708.pdf ( Accessed on February 14, 2022 ). 
+5. Let'sプログラミング. コマンドプロンプトの使い方. コマンドプロンプトの基本. "文字のサイズとフォントの種類を設定する". https://www.javadrive.jp/command/ini/index3.html ( Accessed on March 8, 2022 ). 
+6. Official Apple Support. ターミナルユーザガイド. "Macの「ターミナル」で「プロファイル」の「テキスト」環境設定を変更する". https://support.apple.com/ja-jp/guide/terminal/trmltxt/mac ( Accessed on March 8, 2022 ). 

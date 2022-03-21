@@ -20,9 +20,9 @@ Drawing program : CellPAINT [ 1 ].
 
 以下のリンクをクリックしてZIPファイルをダウンロード出来ます. 
 
-* [ Linux版 ]( https://github.com/shin-kinos/lgbtq-plus-plus/releases/download/v1.0.0/lgbtq-linux.tar.gz ) 
-* [ MacOS版 ]( https://github.com/shin-kinos/lgbtq-plus-plus/releases/download/v1.0.0/lgbtq-macos.zip ) 
-* [ Windows版 ]() 
+* [ Linux版 ]( https://github.com/shin-kinos/lgbtq-plus-plus/releases/download/v1.1.0/lgbtq-linux.tar.gz ) 
+* [ MacOS版 ]( https://github.com/shin-kinos/lgbtq-plus-plus/releases/download/v1.1.0/lgbtq-macos.zip ) 
+* [ Windows版 ]( https://github.com/shin-kinos/lgbtq-plus-plus/releases/download/v1.1.0/lgbtq-win64.zip ) 
 
 ダウンロードしたZIPファイルを, 任意のディレクトリで解凍してください. 
 

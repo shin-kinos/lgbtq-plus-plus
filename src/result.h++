@@ -68,3 +68,12 @@ void show_result(
 	}
 
 }
+
+void end_game() {
+
+	cout << "\nEnter キーでゲームを終了します. : \n";
+
+	getchar();
+	getchar();
+
+}

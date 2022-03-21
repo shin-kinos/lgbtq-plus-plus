@@ -78,5 +78,8 @@ int main() {
 		elapsed_time
 		);
 
+	/* Enter to end. */
+	end_game();
+
 	return 0;
 }
